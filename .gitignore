@@ -1,0 +1,64 @@
+############################
+# Variables de entorno
+############################
+.env
+.env.*
+!.env.example
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+consumer/
+
+
+############################
+# Caché y compilados Python
+############################
+__pycache__/
+*.py[cod]
+*$py.class
+
+############################
+# Logs y temporales
+############################
+*.log
+*.tmp
+*.temp
+
+############################
+# Configuraciones locales
+############################
+*.local
+*.local.*
+config/local/
+settings.local.py
+
+############################
+# IDEs y editores
+############################
+.vscode/
+.idea/
+*.swp
+*.swo
+
+############################
+# Sistema operativo
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Dependencias
+############################
+node_modules/
+dist/
+build/
+
+############################
+# Archivos de pruebas
+############################
+coverage/
+.pytest_cache/
+warehouse/

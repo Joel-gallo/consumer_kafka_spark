@@ -1,0 +1,11 @@
+requests==2.31.0
+pydantic==2.8.0
+fastapi
+uvicorn
+kafka-python==2.1.0
+dotenv
+sqlalchemy==2.0.28
+clickhouse_connect
+clickhouse_sqlalchemy
+debugpy
+pyspark==3.5.7
