@@ -16,3 +16,7 @@ El stack tecnológico usado es:
 - Docker + Docker Compose
 
 - Git
+
+Se mantiene estructura de APIs igual que en el producer.
+
+Job de Spark montado por el momento para ejecucion local. Posteriormente con imagenes de docker y Airflow.
