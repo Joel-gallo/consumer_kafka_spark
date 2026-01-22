@@ -7,7 +7,11 @@ El diseño es el siguiente
 El stack tecnológico usado es:
 - Python (FastAPI + Pydantic)
 
-- API Producer Kafka
+- API Consumer Kafka
+
+- Apache Spark
+
+- Data Lake (Parquet)
 
 - Docker + Docker Compose
 
